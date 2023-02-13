@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -Rla | grep -d read ./ | wc -l
+
